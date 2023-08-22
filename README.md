@@ -38,7 +38,12 @@ Currently, my focus is on crafting machine learning models that elevate everyday
 
 ##    
 
-
 🌐 Beyond my tech pursuits, I'm a community enthusiast. I thrive on participating in and organizing events, bringing together creative minds to energize the tech sphere.
 
 🌟 Let's venture into the future together! Connect with me as we build something amazing.
+
+<h1 align=start>Stats</h1>
+
+<p align=center> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=liggia&theme=dracula"/></a></p>
+<p align=center> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=liggia&show_icons=true&theme=dracula" /></a> </p>
+<p align=center> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liggia&layout=compact&theme=dracula" /></a>
